@@ -3,12 +3,17 @@
 A collection of two data analysis exercises done on New York Business Integrity datasets using Python and Jupyter Notebooks. The goal of this analysis was to get intially familiar with each dataset and execute some basic analysis.
 
 Each dataset is available via the NYC Open Data Portal: 
+<span>
 <a href="https://data.cityofnewyork.us/Business/BIC-Complaints-Inquiries/p2d7-vcsb">BIC Complaints Inquiries</a>
+  <span>
 <a href="https://data.cityofnewyork.us/Business/BIC-Issued-Violations/upii-frjc">BIC Issued Violations</a>
 
 The approach in analysis for each notebook is as follows: 
+ <span>
   a) Fundemental library installation and document analysis
+  <span>
   b) Getting Started Questions from dataset documentation
+    <span>
   c) Complete a unique analysis with an interesting part of the data 
   
  
