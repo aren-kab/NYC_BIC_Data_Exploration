@@ -9,7 +9,7 @@ Each dataset is available via the NYC Open Data Portal:
 <a href="https://data.cityofnewyork.us/Business/BIC-Issued-Violations/upii-frjc">BIC Issued Violations</a>
 
 The approach in analysis for each notebook is as follows: 
- <br>
+ <br><br>
   a) Fundemental library installation and document analysis
   <br>
   b) Getting Started Questions from dataset documentation
